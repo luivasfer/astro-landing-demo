@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Fram Land 1",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et quidem molestias, magni cum blanditiis repellat commodi animi assumenda labore? Necessitatibus non alias aliquid, praesentium blanditiis molestiae et eaque eveniet id minus voluptatem sint? Voluptas aut doloribus quasi omnis vel excepturi exercitationem voluptate voluptatibus incidunt. Porro nam doloremque quo eligendi excepturi!",
+        "image": "images/appreciation.svg"
+    },
+    {
+        "title": "Otro titoulo",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et quidem molestias, magni cum blanditiis repellat commodi animi assumenda labore? Necessitatibus non alias aliquid, praesentium blanditiis molestiae et eaque eveniet id minus voluptatem sint? Voluptas aut doloribus quasi omnis vel excepturi exercitationem voluptate voluptatibus incidunt. Porro nam doloremque quo eligendi excepturi!",
+        "image": "images/appreciation.svg"
+    },
+    {
+        "title": "Poryecto 3",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et quidem molestias, magni cum blanditiis repellat commodi animi assumenda labore? Necessitatibus non alias aliquid, praesentium blanditiis molestiae et eaque eveniet id minus voluptatem sint? Voluptas aut doloribus quasi omnis vel excepturi exercitationem voluptate voluptatibus incidunt. Porro nam doloremque quo eligendi excepturi!",
+        "image": "images/appreciation.svg"
+
+    }
+]
